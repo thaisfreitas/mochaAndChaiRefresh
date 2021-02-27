@@ -1,0 +1,16 @@
+{
+  "name": "mochaAndChaiRefresh",
+  "version": "1.0.0",
+  "description": "This project has the basic of Mocha and Chai.",
+  "main": "test/*.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Thais Freitas",
+  "license": "ISC"
+}
